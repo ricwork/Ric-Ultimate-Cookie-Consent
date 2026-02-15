@@ -1,17 +1,3 @@
-=== Ric Ultimate Cookie Consent ===
-Contributors: mdridipu
-Donate Link: https://buymeacoffee.com/ricgg
-Tags: cookie, consent, gdpr, ccpa, privacy 
-Requires at least: 5.0
-Tested up to: 6.9.1
-Stable tag: 1.0.2
-License: GPL-2.0+
-License URI: http://www.gnu.org/licenses/gpl-2.0.txt
-
-A modern, highly customizable, and GDPR/CCPA compliant cookie consent banner with a beautiful glassy effect.
-
-== Description ==
-
 **Ric Ultimate Cookie Consent** provides an elegant and effective solution for displaying a cookie consent banner on your WordPress website. Designed with a sleek "glassmorphism" aesthetic, this plugin ensures your site complies with privacy regulations like GDPR and CCPA while maintaining a clean, modern look.
 
 **Key Features:**
@@ -69,6 +55,20 @@ Currently, there isn't a "reset to default" button in the plugin. If you wish to
 * Introduced fully customizable cookie banner with glassy effect.
 * Added extensive customization options in the admin panel.
 * Ensured responsiveness for various devices.
+
+
+=== Ric Ultimate Cookie Consent ===
+Contributors: mdridipu
+Donate Link: https://buymeacoffee.com/ricgg
+Tags: cookie, consent, gdpr, ccpa, privacy 
+Requires at least: 5.0
+Tested up to: 6.9.1
+Stable tag: 1.0.2
+License: GPL-2.0+
+License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+
+A modern, highly customizable, and GDPR/CCPA compliant cookie consent banner with a beautiful glassy effect.
+
 
 == Upgrade Notice ==
 
