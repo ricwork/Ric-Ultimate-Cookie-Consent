@@ -30,7 +30,7 @@ A modern, highly customizable, and GDPR/CCPA compliant cookie consent banner wit
 
 Make your cookie consent experience professional and beautiful with Ric Ultimate Cookie Consent!
 
-https://www.youtube.com/watch?v=Z0CeE3449qw
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/Z0CeE3449qw" title="Install Ric Ultimate Cookie Consent WP plugin on your WordPress website takes less than 30 seconds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 == Installation ==
 
